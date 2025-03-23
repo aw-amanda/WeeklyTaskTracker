@@ -1,2 +1,2 @@
-# WeeklyWorkoutApp
-Workout application that allows users to plan a workout regimen by week, which can be checked off after completion and added to an overall summary.
+# WeeklyTaskTracker
+Task / To-Do list tracker that shows one full week where users can add, delete, edit, move, and complete tasks, which are then saved to a summary file and grouped by date of completion. 
